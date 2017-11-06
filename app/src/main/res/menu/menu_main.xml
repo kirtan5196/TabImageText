@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Bottombaritemone"
+        android:icon="@drawable/demo"
+        android:title="People"></item>
+
+    <item android:id="@+id/Bottombaritemtwo"
+        android:icon="@drawable/demo"
+        android:title="Favourites"></item>
+
+    <item android:id="@+id/Bottombaritemthree"
+        android:icon="@drawable/demo"
+        android:title="Phone"></item>
+
+    <item android:id="@+id/Bottombaritemfour"
+        android:icon="@drawable/demo"
+        android:title="Settings"></item>
+
+    <item android:id="@+id/Bottombaritemfive"
+        android:icon="@drawable/demo"
+        android:title="About"></item>
+</menu>
